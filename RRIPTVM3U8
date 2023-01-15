@@ -100,7 +100,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999015&videoid=1309&vootid=1309&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiNWU5NjMwN2EtOGM2ZS00Yjc5LTlkNTMtYmJmZDMwN2E0NzAxIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjczNzY2MzIwLCJleHAiOjE2NzQ2MzAzMjAsImlzcyI6InZvb3QifQ.lmU5baNapUqKx0FJJDapjmoa5P2hSEn8r2ICUIK0Q2A" 
 }, {
 "logo": "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",
-"name": "RABIN-1", 
+"name": "RRIPTV-1", 
 "link": "https://live09p.hotstar.com/mp1/epl2022-23-1540021485/8e7432a971c043a2a06f83bc06f94722/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1673708838~exp=1673709438~data=ip=9g7UST0KNqinEhlGEKQSVi-userid=ulmpmOr4Cl7c4CBNA22RqqS1CDOLodC7gaO8Uj5JExZV-did=1n36eT4l1J3n5v6425yuE1HC2HdXf3hMmFsoRDbW1oZFEgqir4yBdr7-cc=in-~hmac=62532f08fda219f0722c9f3ed063cfca72e70d561a5ee31ce4f661cc994addd7&ttl=86400&type=paid",
 "origin": "https://www.hotstar.com",
 "referrer": "https://www.hotstar.com/",
@@ -130,7 +130,7 @@ userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKi
 "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BgAAABNlKaAAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAHBSuMFauK_Dwm4WJs1hC9PKdnm4AfcC4YEkK5Fqoa-PEJJDSfwu5Lh267of-x-C0vsGMHKxeqi0UpY_Uy_O2nihH2QW_lX8HOiNgDA7rZqNxUOMzNGB6ezXnbKqTPI-Mosw0qLNUZ5XzJvmKPRqBOAVJdJFWdCuB0jGRjbh55LryBFlDhs" 
 }, {
 "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/ILT20_Logo_Black_and_White.jpg",
-"name": "RABIN-4", 
+"name": "RRIPTV-4", 
 "link": "https://dai.google.com/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8",
 "origin": "https://www.hotstar.com",
 "referrer": "https://www.hotstar.com/",
